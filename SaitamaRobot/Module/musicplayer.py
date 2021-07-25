@@ -44,7 +44,7 @@ __help__ = """
 ╠═/player - Open Settings menu of player
 ╠═════════════════════════════════
 ╠═/admincache - Updates admin info of your group
-╠═/userbotjoin: Invite @OdaHelper Userbot to your chat
+╠═/userbotjoin: Invite @SaitamaHelper Userbot to your chat
 ╚═════════════════════════════════
 
 NOTE : Player cmd and all other cmds except /play, /current  and /playlist  are only for admins with manage group
