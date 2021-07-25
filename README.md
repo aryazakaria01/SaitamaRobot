@@ -48,14 +48,10 @@ Saitama is a simple one-punch solution to your group management needs and has be
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Heroku
-⚡CyberDyne Userbot⚡
-</p>
+SaitamaRobot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aryazakaria01/SaitamaRobot/tree/SaitamaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
-<p align="center">
-<a href = "https://heroku.com/deploy?template=https://github.com/aryazakaria01/SaitamaRobot/tree/SaitamaRobot"><img src="https://telegra.ph/file/7e2f02c9ed20a81481dc4.jpg" alt="Press to Takeoff" width="490px"></a>
-
-  ## How to setup/deploy.
-
+## How to setup/deploy.
 
 
 <details>
